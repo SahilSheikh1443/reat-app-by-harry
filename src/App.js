@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          My first reat App yy
+          My first reat App
         </a>
       </header>
     </div>
